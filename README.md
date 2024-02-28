@@ -2,7 +2,7 @@
 # SpringBoot project
 ## Nursery Management System
 ### This project implements a Nursery Management System using Spring Boot. It provides APIs for managing plants in a nursery.
-<br>
+
 # Functionality <br>
 Welcome Page: Accessible at /index, provides a welcome message.  <br>
 Registration Page: Accessible at /registration, allows entering plant data. <br>
